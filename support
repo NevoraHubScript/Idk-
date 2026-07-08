@@ -1,0 +1,21 @@
+return {
+    Games = {
+        {
+            Name = "Coming Soon",
+            PlaceId = 1,
+            Script = ""
+        },
+
+        {
+            Name = "Coming Soon",
+            PlaceId = 1,
+            Script = ""
+        },
+
+        {
+            Name = "Coming Soon",
+            PlaceId = 1,
+            Script = ""
+        }
+    }
+}
