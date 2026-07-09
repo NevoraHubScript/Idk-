@@ -1,9 +1,9 @@
 return {
     Games = {
         {
-            Name = "Coming Soon",
-            PlaceId = 1,
-            Script = ""
+            Name = "Battle Blade For Brainrot",
+            PlaceId = 0,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/Battleblade"
         },
 
         {
