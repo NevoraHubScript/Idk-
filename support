@@ -7,9 +7,9 @@ return {
         },
 
         {
-            Name = "Coming Soon",
-            PlaceId = 1,
-            Script = ""
+            Name = "Yeet Lucky Block",
+            PlaceId = 0,
+            Script = "https://pastefy.app/so8G7sD5/raw"
         },
 
         {
