@@ -3,7 +3,7 @@ return {
         {
             Name = "Battle Blade For Brainrot",
             PlaceId = 0,
-            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/Battleblade"
+            Script = "https://pastefy.app/InhuVxDM/raw"
         },
 
         {
