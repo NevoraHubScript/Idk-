@@ -2,20 +2,20 @@ return {
     Games = {
         {
             Name = "Battle Blade For Brainrot",
-            PlaceId = 0,
+            PlaceId = 135529246290923,
             Script = "https://pastefy.app/InhuVxDM/raw"
         },
 
         {
             Name = "Yeet Lucky Block",
-            PlaceId = 0,
+            PlaceId = 79102003750116,
             Script = "https://pastefy.app/5yET841u/raw"
         },
 
         {
-            Name = "Coming Soon",
-            PlaceId = 1,
-            Script = ""
+            Name = "Throw Hammer For Brainrot",
+            PlaceId = 74442575449267,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/Idk/refs/heads/main/Throw"
         }
     }
 }
