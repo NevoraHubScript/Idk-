@@ -22,6 +22,12 @@ return {
             Name = "Save Brainrot Form Jail",
             PlaceId = 131085226471853,
             Script = "https://pastebin.com/raw/YgSzq0tj"
+        },
+
+        {
+            Name = "Paper Plane For Brainrot",
+            PlaceId = 110373292461174,
+            Script = "https://raw.githubusercontent.com/ZyphoraHubLiblary/Idk-/refs/heads/main/Idk"
         }
     }
 }
