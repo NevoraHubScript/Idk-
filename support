@@ -16,6 +16,12 @@ return {
             Name = "Throw Hammer For Brainrot",
             PlaceId = 74442575449267,
             Script = "https://raw.githubusercontent.com/NevoraHubScript/Idk/refs/heads/main/Throw"
+        },
+
+        {
+            Name = "Save Brainrot Form Jail",
+            PlaceId = 131085226471853,
+            Script = "https://pastebin.com/raw/YgSzq0tj"
         }
     }
 }
