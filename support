@@ -21,7 +21,7 @@ return {
         {
             Name = "Save Brainrot Form Jail",
             PlaceId = 131085226471853,
-            Script = "https://pastebin.com/raw/YgSzq0tj"
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/SaveFuckNigga"
         },
 
         {
