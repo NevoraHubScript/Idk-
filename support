@@ -34,6 +34,12 @@ return {
             Name = "Fall For Brainrot",
             PlaceId = 86368783421928,
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/FallPremFuckYouNiggaHahaha"
+        },
+
+        {
+            Name = "Climb And Drop A Lucky Block",
+            PlaceId = 96401370703274,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/DropFuckYouNigga"
         }
     }
 }
