@@ -28,6 +28,12 @@ return {
             Name = "Paper Plane For Brainrot",
             PlaceId = 110373292461174,
             Script = "https://raw.githubusercontent.com/ZyphoraHubLiblary/Idk-/refs/heads/main/Idk"
+        },
+
+        {
+            Name = "Fall For Brainrot",
+            PlaceId = 86368783421928,
+            Script = "https://raw.githubusercontent.com/ZyphoraHubLiblary/Idk-/refs/heads/main/Idk"
         }
     }
 }
