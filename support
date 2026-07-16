@@ -40,6 +40,13 @@ return {
             Name = "Climb And Drop A Lucky Block",
             PlaceId = 96401370703274,
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/DropFuckYouNigga"
+        },
+
+        
+        {
+            Name = "Brainblast For Lucky Block",
+            PlaceId = 102990893659741,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/BrainblastFuckYouNinggaHihihi"
         }
     }
 }
