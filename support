@@ -1,6 +1,12 @@
 return {
     Games = {
         {
+            Name = "Fps Boost Universal",
+            PlaceId = 0,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/FpsBoostKontolNigga"
+        },
+
+        {
             Name = "Battle Blade For Brainrot",
             PlaceId = 135529246290923,
             Script = "https://pastefy.app/InhuVxDM/raw"
