@@ -50,10 +50,16 @@ return {
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/BrainblastFuckYouNinggaHihihi"
         },
 
-         {
-            Name = "Kick A Lucky Block (beta)",
+        {
+            Name = "Kick A Lucky Block (only auto kick)",
             PlaceId = 89469502395769,
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/AutoGedangBetaFuckYouNinggaNiger"
+        },
+
+        {
+            Name = "+1 Mine Per Click (Fitur Seadanya)",
+            PlaceId = 74193805629461,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/%2B1mineperclickIdkFuckYouNingga"
         }
     }
 }
