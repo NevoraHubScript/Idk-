@@ -1,7 +1,64 @@
-return {
-    Games = {
+Games = {
 
         {
+            Name = "Battle Blade For Brainrot",
+            PlaceId = 135529246290923,
+            Script = "https://pastefy.app/InhuVxDM/raw"
+        },
+
+        {
+            Name = "Yeet Lucky Block",
+            PlaceId = 79102003750116,
+            Script = "https://pastefy.app/5yET841u/raw"
+        },
+
+        {
+            Name = "Throw Hammer For Brainrot",
+            PlaceId = 74442575449267,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/Idk/refs/heads/main/Throw"
+        },
+
+        {
+            Name = "Save Brainrot Form Jail",
+            PlaceId = 131085226471853,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/SaveFuckNigga"
+        },
+
+        {
+            Name = "Paper Plane For Brainrot",
+            PlaceId = 110373292461174,
+            Script = "https://raw.githubusercontent.com/ZyphoraHubLiblary/Idk-/refs/heads/main/Idk"
+        },
+
+        {
+            Name = "Fall For Brainrot",
+            PlaceId = 86368783421928,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/FallPremFuckYouNiggaHahaha"
+        },
+
+        {
+            Name = "Climb And Drop A Lucky Block",
+            PlaceId = 96401370703274,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/DropFuckYouNigga"
+        },
+
+        
+        {
+            Name = "Brainblast For Lucky Block",
+            PlaceId = 102990893659741,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/BrainblastFuckYouNinggaHihihi"
+        },
+
+        {
+            Name = "Kick A Lucky Block (only auto kick)",
+            PlaceId = 89469502395769,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/AutoGedangBetaFuckYouNinggaNiger"
+        },
+
+        {
+            Name = "+1 Mine Per Click (Fitur Seadanya)",
+            PlaceId = 74193805629461,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/%2B1mineperclickIdkFuckYouNingga"
             Name = "Throw A Coin",
             PlaceId = 115681808123944,
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/ThrowCoinFuckNigga"
