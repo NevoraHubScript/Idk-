@@ -64,16 +64,17 @@ Games = {
          },
 
         {
-            Name = "Throw A Coin World 1",
+            Name = "Throw A Coin 1, 2 Seperti Nya",
             PlaceId = 115681808123944,
+                      72042130041700
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/ThrowCoinFuckNiggaKontol"
         },
 
         
         {
-            Name = "Throw A Coin World 2",
-            PlaceId = 72042130041700,
-            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/ThrowCoinFuckNiggaKontol"
+            Name = "Jump For Cases",
+            PlaceId = 97665661589897,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/JumpForKontolNiggaKontolNiger"
         }
     }
 }
