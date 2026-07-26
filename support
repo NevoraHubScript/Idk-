@@ -74,6 +74,13 @@ Games = {
             PlaceId = 72042130041700,
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/ThrowCoinFuckNiggaKontol"
         },
+
+        
+       {
+            Name = "Throw A Coin 3",
+            PlaceId = 100875131717601,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/ThrowCoinFuckNiggaKontol"
+        },
         
         {
             Name = "Jump For Cases",
