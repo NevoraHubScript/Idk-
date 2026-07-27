@@ -86,6 +86,12 @@ Games = {
             Name = "Jump For Cases",
             PlaceId = 97665661589897,
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/JumpForKontolNiggaKontolNiger"
+        },
+
+        {
+            Name = "Be Monkey For Brainrot (hanya auto farm)",
+            PlaceId = 76984077812388,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/Jadimonyetajabangganinggakontol"
         }
     }
 }
