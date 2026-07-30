@@ -98,6 +98,12 @@ Games = {
             Name = "Web Swing For Lucky Block",
             PlaceId = 86455914125987,
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/JadiSpidermanKontolNigga"
+        },
+
+        {
+            Name = "Find Egg For Brainrot(Only X2)",
+            PlaceId = 114507117535918,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/ApalahItuPokoknyaKontolNigga"
         }
     }
 }
