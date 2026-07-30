@@ -92,6 +92,12 @@ Games = {
             Name = "Be Monkey For Brainrot (hanya auto farm)",
             PlaceId = 76984077812388,
             Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/Jadimonyetajabangganinggakontol"
+        },
+
+        {
+            Name = "Web Swing For Lucky Block",
+            PlaceId = 86455914125987,
+            Script = "https://raw.githubusercontent.com/NevoraHubScript/NevoraHubPrem/refs/heads/main/JadiSpidermanKontolNigga"
         }
     }
 }
